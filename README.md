@@ -1,4 +1,4 @@
-# oibgrip
+# oibsip
 I had worked as a web developer intern and would like to thank Oasis Infobyte for giving me this opprtunity.
 # [calculator](https://htmlpreview.github.io/?https://github.com/shreyashitole02/oibgrip-level2/blob/main/task1/index.html)
 Create a calculator with basic mathematical functionalities using CSS, HTML, and JavaScript. Calculators require an interactive interface to perform basic functions such as addition, subtraction, division, and multiplication and logarithm.
